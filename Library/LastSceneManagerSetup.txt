@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/labthree.unity
+  isLoaded: 1
+  isActive: 1

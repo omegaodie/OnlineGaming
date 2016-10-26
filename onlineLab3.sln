@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{70E110AA-F69F-1CDB-A4D3-7B09147C000B}") = "onlineLab3", "Assembly-CSharp.csproj", "{7241896F-B29D-5011-2F76-AF3CE726F5E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7241896F-B29D-5011-2F76-AF3CE726F5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7241896F-B29D-5011-2F76-AF3CE726F5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7241896F-B29D-5011-2F76-AF3CE726F5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7241896F-B29D-5011-2F76-AF3CE726F5E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
